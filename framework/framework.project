@@ -103,14 +103,14 @@
       </VirtualDirectory>
     </VirtualDirectory>
     <VirtualDirectory Name="data">
+      <File Name="src/data/user.h"/>
+      <File Name="src/data/user.c"/>
       <File Name="src/data/sound.h"/>
       <File Name="src/data/sound.c"/>
       <File Name="src/data/config.c"/>
       <File Name="src/data/config.h"/>
       <File Name="src/data/history.c"/>
       <File Name="src/data/history.h"/>
-      <File Name="user.h"/>
-      <File Name="user.c"/>
     </VirtualDirectory>
     <File Name="main.c"/>
   </VirtualDirectory>
