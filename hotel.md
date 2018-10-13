@@ -25,6 +25,6 @@
 
 # 公寓管理系统
 
-长短租公寓管理系统</br>
+长短租公寓、客栈管理系统</br>
 ![](https://github.com/iToday/iLock/blob/master/images/%E5%85%AC%E5%AF%93%E7%B3%BB%E7%BB%9F-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD.png)
 
